@@ -22,3 +22,10 @@ Run the listener and run
 '''python semi-win32.py shell'''
 
  
+# Testing 
+
+Tested on TryHackMe labs - https://tryhackme.com/room/bufferoverflowprep 
+
+Tested on Brainpan
+
+Tested on vulnserver.exe (spiking done seperately)
